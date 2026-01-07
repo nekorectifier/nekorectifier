@@ -28,14 +28,32 @@
 
 <br/>
 
+
+<!-- 【关键修改】使用 table align="right" 实现垂直侧边栏 -->
+<!-- 注意：GitHub 的表格可能会带有边框，这是无法消除的，但能保证布局完美 -->
+<table align="right">
+  <tr>
+    <td>
+      <a href="https://github.com/nekorectifier">
+        <img width="320" src="https://dsufbwef-readme-stats.vercel.app/api?username=nekorectifier&show_icons=true&count_private=true&rank_icon=percentile&theme=tokyonight&hide_border=true&bg_color=1a1b26&show=prs_merged_percentage" alt="stats" />
+      </a>
+    </td>
+  </tr>
+  <!-- <tr>
+    <td>
+      <a href="https://github.com/nekorectifier">
+        <img width="320" src="https://dsufbwef-readme-stats.vercel.app/api/top-langs/?username=nekorectifier&layout=donut&langs_count=8&exclude_repo=Guidance-Astro&theme=tokyonight&hide_border=true&bg_color=1a1b26&hide=javascript,html,stylus,ejs" alt="languages" />
+      </a>
+    </td>
+  </tr> -->
+</table>
+
+<!-- 下面的文字会自动环绕在表格左侧 -->
+
 ### 📡 Handshake
 
 - [E-mail](mailto:nekorect@gmail.com)
 - [X (Twitter)](https://x.com/nekorect)
 - [Telegram](https://t.me/eubd37)
 
-<br/>
-
-<div align="center">
-  <img src="https://dsufbwef-readme-stats.vercel.app/api?username=nekorectifier&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999&icon_color=58a6ff" height="140" alt="stats" />
-</div>
+<br clear="all" />
