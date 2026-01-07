@@ -1,38 +1,41 @@
-### ⚡ Hi, I'm nekorectifier
+## Hi, I'm nekorectifier 👋
 
 - Developer / Web3 Enthusiast / Rustacean
 - Currently rewriting my mental models in **Rust** while maintaining efficiency with **Python**.
 
-### 🛠 Core Weapons
+<br/>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,rust&theme=dark" />
-</a>
+### 🛠 Stack & Lang
 
-### 🏗 Infrastructure & Web3 Stack
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,python,solidity,md,latex,arch,bash,git,github,vscode,pycharm,notion&theme=dark" />
+  </a>
+</div>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=solidity,linux,git,bash,md,latex&theme=dark" />
-</a>
+<br/>
 
 ### 🔭 Current Scope
 
 > **🦀 Rust**
 > Focusing on memory safety, concurrency patterns, and the `tokio` ecosystem.
-
+> 
 > **🐍 Python**
-> Building off-chain scripts, MEV bot simulations, and data processing pipelines.
-
+> Building quant trading system with [NautilusTrader](https://nautilustrader.io/docs/nightly).
+> 
 > **⛓️ Web3**
-> Researching cryptographic primitives, consensus mechanisms, and contract security.
+> Researching cryptographic primitives, consensus mechanisms, and Solana ecosystem.
+
+<br/>
 
 ### 📡 Handshake
 
-<p align="left">
-  <a href="mailto:nekorect@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send_Packet-333333?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="x.com/nekorect">
-    <img src="https://img.shields.io/badge/Twitter-Broadcast-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-</p>
+- [E-mail](mailto:nekorect@gmail.com)
+- [X (Twitter)](https://x.com/nekorect)
+- [Telegram](https://t.me/eubd37)
+
+<br/>
+
+<div align="center">
+  <img src="https://dsufbwef-readme-stats.vercel.app/api?username=nekorectifier&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999&icon_color=58a6ff" height="140" alt="stats" />
+</div>
