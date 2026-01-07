@@ -55,5 +55,6 @@
 - [E-mail](mailto:nekorect@gmail.com)
 - [X (Twitter)](https://x.com/nekorect)
 - [Telegram](https://t.me/eubd37)
+- [Notion](https://nekoblog.notion.site)
 
 <br clear="all" />
