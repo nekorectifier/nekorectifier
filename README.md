@@ -34,8 +34,8 @@
 <table align="right">
   <tr>
     <td>
-      <a href="https://github.com/nekorectifier">
-        <img width="320" src="https://dsufbwef-readme-stats.vercel.app/api?username=nekorectifier&show_icons=true&count_private=true&rank_icon=percentile&theme=tokyonight&hide_border=true&bg_color=1a1b26&show=prs_merged_percentage" alt="stats" />
+      <a href="https://github.com/iridite">
+        <img width="320" src="https://dsufbwef-readme-stats.vercel.app/api?username=iridite&show_icons=true&count_private=true&rank_icon=percentile&theme=tokyonight&hide_border=true&bg_color=1a1b26&show=prs_merged_percentage" alt="stats" />
       </a>
     </td>
   </tr>
@@ -52,9 +52,9 @@
 
 ### 📡 Handshake
 
-- [E-mail](mailto:nekorect@gmail.com)
-- [X (Twitter)](https://x.com/nekorect)
+- [E-mail](mailto:iridite@foxmail.com)
+- [X (Twitter)](https://x.com/iridite_)
 - [Telegram](https://t.me/eubd37)
-- [Notion](https://nekoblog.notion.site)
+- [Notion](https://iridite.notion.site)
 
 <br clear="all" />
