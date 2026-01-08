@@ -1,4 +1,4 @@
-## Hi, I'm nekorectifier 👋
+## Hi, I'm Iridite 👋
 
 - Developer / Web3 Enthusiast / Rustacean
 - Currently rewriting my mental models in **Rust** while maintaining efficiency with **Python**.
